@@ -3,8 +3,6 @@
 ### About Me
 
 - 🌱 &nbsp;I’m currently learning coding (HTML, CSS and Javascript).
-- 👀 &nbsp;I’m looking for Backend Developer based in Taipei or remote.
-- 🎓 &nbsp;I graduated from NTUEE in 2011.
 - 📖 &nbsp;In my free time, I enjoy playing guitar, reading novels and traveling.
 - 📫 &nbsp;You can drop me an email at p12427@gmail.com
 - 😃 &nbsp;It will be a pleasure to talk with you.
