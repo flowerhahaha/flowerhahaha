@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 🌱 &nbsp;I’m currently learning coding (HTML, CSS and Javascript).
+- 🌱 &nbsp;I am looking for a backend engineering position located in Taipei or remote.
 - 📖 &nbsp;In my free time, I enjoy playing guitar, reading novels and traveling.
 - 📫 &nbsp;You can drop me an email at p12427@gmail.com
 - 😃 &nbsp;It will be a pleasure to talk with you.
@@ -19,7 +19,10 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  
 - ⚙️ &nbsp;
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
